@@ -1,0 +1,1 @@
+# R06-Noto-Peninsula-EQ-Number-of-damages
