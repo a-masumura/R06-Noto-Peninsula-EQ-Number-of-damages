@@ -3,7 +3,7 @@
 自治体別の「住家被害」「人的被害」のデータを作成し公開しました。  
 新潟県、富山県、石川県、消防庁が公表している資料に基づいています。  
 以下のリンクより、データにアクセス可能です。  
-- GeoJSON形式 (ポイントデータ)  
+- [GeoJSON形式 (ポイントデータ) ](https://raw.githubusercontent.com/a-masumura/R06-Noto-Peninsula-EQ-Number-of-damages/main/%E4%BD%8F%E5%AE%B6%E8%A2%AB%E5%AE%B3%E3%83%BB%E4%BA%BA%E7%9A%84%E8%A2%AB%E5%AE%B3_%E4%BB%A4%E5%92%8C6%E5%B9%B4%E8%83%BD%E7%99%BB%E5%8D%8A%E5%B3%B6%E5%9C%B0%E9%9C%87.geojson) 
 
 - Google スプレッドシートへのリンク  
 [https://docs.google.com/spreadsheets/d/10b1gqFqJOX4bgiI1VisQYHuKnNsJhcvUfqeSoItLj1g/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10b1gqFqJOX4bgiI1VisQYHuKnNsJhcvUfqeSoItLj1g/edit?usp=sharing)
